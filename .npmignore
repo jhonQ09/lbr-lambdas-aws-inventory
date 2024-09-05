@@ -1,0 +1,7 @@
+# Excluye archivos de prueba y directorios de construcción
+test/
+*.spec.js
+*.test.js
+src/
+babel.config.json
+tsconfig.json

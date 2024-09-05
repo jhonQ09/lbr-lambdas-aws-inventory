@@ -1,0 +1,6 @@
+npm i -D nodemon
+npm i dotenv -D
+npm i cross-env -D
+npm i swagger-jsdoc swagger-ui-express
+npm i junit
+npm i @babel/core
